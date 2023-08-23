@@ -1,3 +1,5 @@
+## AWS INSTANCE NAMES ::::::::::::::::::::::::::::;
+
 For Amazon Linux 2023, Amazon Linux 2, or the Amazon Linux AMI, the user name is ec2-user.
 
 For a CentOS AMI, the user name is centos or ec2-user.
